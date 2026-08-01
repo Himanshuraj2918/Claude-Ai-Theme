@@ -6,11 +6,11 @@ type (comments, strings, keywords, functions, types, variables, etc).
 
 ## Dark Theme
 
-![Dark Theme](images/ClaudeThemeDarkMode.png)
+![Dark Theme](Images/ClaudeThemeDarkMode.png)
 
 ## Light Theme
 
-![Light Theme](images/ClaudeThemeLightMode.png)
+![Light Theme](Images/ClaudeThemeLightMode.png)
 
 ## Install (Way 1):
 ### Steps
