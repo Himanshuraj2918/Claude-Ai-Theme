@@ -4,7 +4,30 @@ A dark + light VS Code theme matching claude.ai's color system: warm terracotta 
 (`#DA7756` / `#C1663F`), cream/near-black neutrals, and one consistent color per token
 type (comments, strings, keywords, functions, types, variables, etc).
 
-## Install (no publishing needed)
+## Dark Theme
+
+![Dark Theme](images/ClaudeThemeDarkMode.png)
+
+## Light Theme
+
+![Light Theme](images/ClaudeThemeLightMode.png)
+
+## Install (Way 1):
+### Steps
+
+1. Download the latest `.vsix` file from the Releases section.
+2. Open **Visual Studio Code**.
+3. Go to the **Extensions** view (`Ctrl + Shift + X`).
+4. Click the **⋯** (More Actions) menu in the top-right corner.
+5. Select **Install from VSIX...**.
+6. Choose the downloaded `.vsix` file.
+7. After installation, open the **Command Palette** (`Ctrl + Shift + P`), type **Preferences: Color Theme**, and select:
+   - **Claude AI Dark**
+   - **Claude AI Light**
+
+Enjoy coding with the Claude Code-inspired theme! 🚀
+
+## Install (no publishing needed Way 2:) 
 
 1. Copy this whole `claude-ai-theme` folder into your VS Code extensions directory:
    - macOS/Linux: `~/.vscode/extensions/`

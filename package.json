@@ -1,9 +1,26 @@
 {
   "name": "claude-ai-theme",
-  "displayName": "Claude AI",
+  "displayName": "Claude Code Theme",
   "description": "A VS Code theme matching claude.ai's warm terracotta color system, in dark and light variants.",
   "version": "1.0.0",
-  "publisher": "local",
+  "license": "MIT",
+  "publisher": "He-Man",
+  "icon": "Images/icon.png",
+  "homepage": "https://github.com/Himanshuraj2918/Claude-Ai-Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Himanshuraj2918/Claude-Ai-Theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Himanshuraj2918/Claude-Ai-Theme/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "terracotta",
+    "vscode"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
